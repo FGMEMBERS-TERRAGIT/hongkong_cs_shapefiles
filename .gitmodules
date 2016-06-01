@@ -1,0 +1,12 @@
+[submodule "hongkong_cs_landmass"]
+	path = hongkong_cs_landmass
+	url = https://github.com/FGMEMBERS-TERRAGIT/hongkong_cs_landmass.git
+[submodule "hongkong_cs_road"]
+	path = hongkong_cs_road
+	url = https://github.com/FGMEMBERS-TERRAGIT/hongkong_cs_road.git
+[submodule "hongkong_cs_stream"]
+	path = hongkong_cs_stream
+	url = https://github.com/FGMEMBERS-TERRAGIT/hongkong_cs_stream.git
+[submodule "hongkong_cs_railroad"]
+	path = hongkong_cs_railroad
+	url = https://github.com/FGMEMBERS-TERRAGIT/hongkong_cs_railroad.git
